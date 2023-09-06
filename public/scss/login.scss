@@ -26,7 +26,7 @@
                     content: '';
                     display: flex;
                     background-position: center;
-                    background-image: url('../assets/whale-tales-logo-no-text.png');
+                    background-image: url('../assets/hissc-logo.png');
                     background-repeat: no-repeat;
                     background-size: contain;
                     width: 48px;
@@ -39,7 +39,7 @@
         
                 &:after {
                     @include showNewContent;
-                    content: 'Welcome to Whale Tales';
+                    content: 'Welcome to HISSC Cyber SOC';
                 }
             }
         
@@ -55,7 +55,7 @@
                 &:after {
                     @include showNewContent;
                     color: darkblue !important; 
-                    content: "You have logged out of Whale Tales."
+                    content: "You have logged out of HISSC Cyber SOC."
         
                 }
             }
