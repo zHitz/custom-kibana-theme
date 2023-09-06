@@ -1,1 +1,1 @@
-export const CUSTOM_NAME = 'Whale Tales';
+export const CUSTOM_NAME = 'HISSC Cyber SOC';
