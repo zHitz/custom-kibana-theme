@@ -40,6 +40,8 @@
                 &:after {
                     @include showNewContent;
                     content: 'Welcome to HISSC Cyber SOC';
+                    width: auto;
+                    white-space: nowrap;
                 }
             }
         
